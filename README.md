@@ -1,1 +1,1 @@
-The 1-LINN code.
+The code for 1-LINN.
